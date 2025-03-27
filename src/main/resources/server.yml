@@ -1,0 +1,8 @@
+# Server types: GAME, HUB
+server-type: GAME
+
+servers:
+  hubs:
+    - "hub"
+  games:
+    - "game"

@@ -1,0 +1,10 @@
+name: BuildBattle
+version: '1.0.0'
+main: me.spaff.buildbattle.Main
+api-version: '1.21'
+authors: [ spaff ]
+commands:
+  buildbattle:
+    description: Manage commands for BuildBattle
+    permission: buildbattle.command.execute
+    aliases: [ bb ]
